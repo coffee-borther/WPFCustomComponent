@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1N2ivrNvtil3sKjidyvnwsGqITx1NAmHShHmOpMf3+BR5s6QsnoOiuSYv7vtSqheS7Wvm98fvU7j/9qRlEFaKQ==",
+  "success": true,
+  "projectFilePath": "D:\\PYF\\CSharp_wpf_projects\\WPFCustomComponent\\WPFCustomComponent.LoadingAnimation\\WPFCustomComponent.LoadingAnimation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PYF\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

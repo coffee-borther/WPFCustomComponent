@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFCustomComponent.CustomButton", "WPFCustomComponent.CustomButton\WPFCustomComponent.CustomButton.csproj", "{72D9C666-383E-4C40-B79A-231FF75F0D2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFCustomComponent.CustomProgressBar", "WPFCustomComponent.CustomProgressBar\WPFCustomComponent.CustomProgressBar.csproj", "{5499BF53-1266-44CC-8D88-0F73D121EB99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFCustomComponent.CustomTreeView", "WPFCustomComponent.CustomTreeView\WPFCustomComponent.CustomTreeView.csproj", "{42A2FB88-9EB0-4652-91AD-0F0C46956C27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFCustomComponent.NumberUpDown", "WPFCustomComponent.NumberUpDown\WPFCustomComponent.NumberUpDown.csproj", "{4721D37F-C083-4B36-9DFC-73131E8B1D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCustomComponent.LoadingAnimation", "WPFCustomComponent.LoadingAnimation\WPFCustomComponent.LoadingAnimation.csproj", "{95E48976-7B4A-4B89-9177-E60FB3DD5C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D9C666-383E-4C40-B79A-231FF75F0D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D9C666-383E-4C40-B79A-231FF75F0D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D9C666-383E-4C40-B79A-231FF75F0D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D9C666-383E-4C40-B79A-231FF75F0D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5499BF53-1266-44CC-8D88-0F73D121EB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5499BF53-1266-44CC-8D88-0F73D121EB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5499BF53-1266-44CC-8D88-0F73D121EB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5499BF53-1266-44CC-8D88-0F73D121EB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A2FB88-9EB0-4652-91AD-0F0C46956C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A2FB88-9EB0-4652-91AD-0F0C46956C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A2FB88-9EB0-4652-91AD-0F0C46956C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A2FB88-9EB0-4652-91AD-0F0C46956C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4721D37F-C083-4B36-9DFC-73131E8B1D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4721D37F-C083-4B36-9DFC-73131E8B1D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4721D37F-C083-4B36-9DFC-73131E8B1D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4721D37F-C083-4B36-9DFC-73131E8B1D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E48976-7B4A-4B89-9177-E60FB3DD5C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E48976-7B4A-4B89-9177-E60FB3DD5C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E48976-7B4A-4B89-9177-E60FB3DD5C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E48976-7B4A-4B89-9177-E60FB3DD5C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB12290D-6BC8-40EA-AAFA-5013C85ADD2C}
+	EndGlobalSection
+EndGlobal

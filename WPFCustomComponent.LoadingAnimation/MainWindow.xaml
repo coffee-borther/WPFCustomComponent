@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPFCustomComponent.LoadingAnimation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFCustomComponent.LoadingAnimation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid Height="300" Width="400">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.4*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Ellipse Height="100" Width="100" Fill="#00bafc">
+                </Ellipse>
+                <Ellipse Height="100" Width="100" Fill="#00bafc"></Ellipse>
+                <Ellipse Height="100" Width="100" Fill="#00bafc"></Ellipse>
+            </StackPanel>
+            <TextBlock Text="Loading..." Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="40" Foreground="#00bafc" FontFamily="Cooper Black"></TextBlock>
+        </Grid>
+    </Grid>
+</Window>
